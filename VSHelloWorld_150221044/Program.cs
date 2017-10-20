@@ -15,6 +15,7 @@ namespace VSHelloWorld_150221044
         public static void Main(string[] args)
         {
             //Lyudmyla Todoriko
+            //José Pereira
             BuildWebHost(args).Run();
         }
 
